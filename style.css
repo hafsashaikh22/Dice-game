@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(rgb(108, 108, 243), rgb(226, 111, 174));
+}
+
+.d {
+    align-items: center;
+}
+
+.my-width {
+    width: 20%;
+}
+
+.head1 {
+    color: black;
+    text-shadow: rgb(255, 228, 196);
+    /* text-decoration-color: gray;  */
+}
